@@ -10,6 +10,7 @@
 
 - 📫 The fastest way to contact me is to contact me at my personal email address.
 - 👉 jy160097@naver.com 
+- 💋 Thanks!
 
 - 💓🧡💛💚💙💜🤎🖤🤍💓🧡💛💚💙💜🤎🖤🤍💓🧡💛💚💙💜🤎🖤🤍💓🧡💛💚💙💜🤎🤍
 
