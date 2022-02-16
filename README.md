@@ -1,14 +1,14 @@
 - 💓🧡💛💚💙💜🤎🖤🤍💓🧡💛💚💙💜🤎🖤🤍💓🧡💛💚💙💜🤎🖤🤍💓🧡💛💚💙💜🤎🤍
 
 - 👋 Hi, I’m Jiyeong. My Git-hub ID is @jyyun93
-- 🌱 I'm currently learning in Sogang University Master of Business Administration.
+- 🌱 I'm currently learning at Sogang University Master of Business Administration.
 - 🌹 I hope to become Citizen Data Scientist in the financial.
 - 👀 I'm focusing on Business Modeling & Analysis. 
 - 🎀 I majored in business administration, and my intensive major is business science.
 - ⏰ The time series field is very attractive to me.
-- 💡 All the processes will be recorded on github. 
+- 💡 All the processes will be recorded on Github. 
 
-- 📫 The fastest way to contact me is to contact me at my personal email address.
+- 📫 The fastest way to contact me is to contact me at my email address.
 - 👉 jy160097@naver.com 
 - 💋 Thanks!
 
