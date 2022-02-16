@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Jiyeong. My Git-hub ID is @jyyun93
 - 🌱 I'm currently learning in Sogang University Master of Business Administration.
-- 🌹 I hope to become Citizen data scientist in the financial.
+- 🌹 I hope to become Citizen Data Scientist in the financial.
 - 👀 I'm focusing on Business Modeling & Analysis. 
 - 🎀 My most interested in is Time series. 
 - ⏰ The time series field is very attractive to me.
