@@ -4,7 +4,7 @@
 - 🌱 I'm currently learning at Sogang University Master of Business Administration.
 - 🌹 I hope to become Citizen Data Scientist in the financial.
 - 👀 I'm focusing on Business Modeling & Analysis. 
-- 🎀 I majored in business administration, and my intensive major is business science.
+- 🎀 I majored in business, and my intensive major is business science.
 - ⏰ The time series field is very attractive to me.
 - 💡 All the processes will be recorded on Github. 
 
